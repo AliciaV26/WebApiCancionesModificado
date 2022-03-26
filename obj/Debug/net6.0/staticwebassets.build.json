@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "8lqZwVq1hcl3M04+P6l9n9KjXXW74PAllvD7YTAQ6aM=",
+  "Source": "WebApiCanciones",
+  "BasePath": "_content/WebApiCanciones",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApiCanciones\\wwwroot",
+      "Source": "WebApiCanciones",
+      "ContentRoot": "C:\\Users\\alice\\source\\repos\\WebApiCanciones\\WebApiCanciones\\wwwroot\\",
+      "BasePath": "_content/WebApiCanciones",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\alice\\source\\repos\\WebApiCanciones\\WebApiCanciones\\wwwroot\\Act3.txt",
+      "SourceId": "WebApiCanciones",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alice\\source\\repos\\WebApiCanciones\\WebApiCanciones\\wwwroot\\",
+      "BasePath": "_content/WebApiCanciones",
+      "RelativePath": "Act3.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Act3.txt"
+    },
+    {
+      "Identity": "C:\\Users\\alice\\source\\repos\\WebApiCanciones\\WebApiCanciones\\wwwroot\\nuevosRegistros.txt",
+      "SourceId": "WebApiCanciones",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alice\\source\\repos\\WebApiCanciones\\WebApiCanciones\\wwwroot\\",
+      "BasePath": "_content/WebApiCanciones",
+      "RelativePath": "nuevosRegistros.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\nuevosRegistros.txt"
+    },
+    {
+      "Identity": "C:\\Users\\alice\\source\\repos\\WebApiCanciones\\WebApiCanciones\\wwwroot\\registroConsultado.txt",
+      "SourceId": "WebApiCanciones",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alice\\source\\repos\\WebApiCanciones\\WebApiCanciones\\wwwroot\\",
+      "BasePath": "_content/WebApiCanciones",
+      "RelativePath": "registroConsultado.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\registroConsultado.txt"
+    }
+  ]
+}
